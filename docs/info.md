@@ -10,6 +10,7 @@ You can also include images in this folder and reference them in the markdown. E
 ## How it works A
 
 Explain how your project works
+its a 7 seg man
 
 ## How to test
 
